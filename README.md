@@ -1,6 +1,3 @@
 # FOCS
-Fundamentals of Computer Science
-Mr. Parmley
-Lab 505
-Dailey Middle School
-Use the files to get the code that you need for your projects.
+<h2>Fundamentals of Computer Science</h2>
+<h3>Mr. Parmley</h3>
