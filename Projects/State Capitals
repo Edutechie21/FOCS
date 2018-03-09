@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <style>
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+</style>
+
+<div class="content">
+  
+  <!-- Color Names can be found at https://www.w3schools.com/colors/colors_names.asp .   Color Hex Codes can be found at Adobe Color CC, but using HTML color names makes it easier to format the Select Theme choices when using multiple lines of code.-->
+
+
+	<h1>State Capitals</h1>
+<label for="theme">Select theme: </label>
+    <select id="theme">
+      <option value="white">White</option>
+      <option value="black">Black</option>
+      <option value="aliceblue">Aliceblue</option>
+      <option value="grey">Grey</option>
+      <option value="green">Green</option>
+      <option value="blue">Blue</option>
+    </select>
+
+
+    
+
+    <script>
+      var select = document.querySelector('select');
+      var html = document.querySelector('html');
+      select.onchange = function() {
+        var choice = select.value;
+        switch(choice) {
+          case 'black':
+            update('black','white');
+            break;
+          case 'white':
+            update('white','black');
+            break;
+          case 'aliceblue':
+            update('aliceblue','#00000');
+            break;
+          case 'grey':
+            update('#868A8B','#2D3C3F');
+            break;
+          case 'green':
+            update('green','gold');
+            break;
+          case 'blue':
+            update('blue','white');
+            break;
+        }
+      }
+      function update(bgColor, textColor) {
+        html.style.backgroundColor = bgColor;
+        html.style.color = textColor;
+      }
+    </script>
+
+
+<p id="Texas">What is the Capital of...Texas.</p>
+
+<button type="button" onclick='document.getElementById("Texas").innerHTML = "Austin"'>Click for Correct Answer</button>
+
+<p id="Little Rock">What is the Capital of Arkansas</p>
+
+<button type="button" onclick='document.getElementById("Little Rock").innerHTML = "Little Rock"'>Click for Correct Answer</button>
+
+<p id="Alabama">What is the Capital of Alabama?</p>
+
+<button type="button" onclick='document.getElementById("Alabama").innerHTML = "Montgomery"'>Click for Correct Answer</button>
+
+
+<p id="Alaska">What is the Capital of Alaska?</p>
+
+<button type="button" onclick='document.getElementById("Alaska").innerHTML = "Juneau"'>Click for Correct Answer</button>
+
+<p id="Arizona">What is the Capital of Arizona?</p>
+
+<button type="button" onclick='document.getElementById("Arizona").innerHTML = "Phoenix"'>Click for Correct Answer</button>
+
+<p id="California">What is the Capital of California?</p>
+
+<button type="button" onclick='document.getElementById("California").innerHTML = "Sacremento"'>Click for Correct Answer</button>
+
+<p id="Colorado">What is the Capital of Colorado?</p>
+
+<button type="button" onclick='document.getElementById("Colorado").innerHTML = "Denver"'>Click for Correct Answer</button>
+
+
+<p id="Connecticut">What is the Capital of Connecticut?</p>
+
+<button type="button" onclick='document.getElementById("Connecticut").innerHTML = "Hartford"'>Click for Correct Answer</button>
+
+
+<p id="Delaware">What is the Capital of Delaware?</p>
+
+<button type="button" onclick='document.getElementById("Delaware").innerHTML = "Dover"'>Click for Correct Answer</button>
+
+</div>
+</body>
+</html>
