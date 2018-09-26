@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Digital Citizenship</title>
+</head>
+<body>
+<a href="Index.html">Home</a> <a href="Copyright.html">Copyright</a> <a href="Etiquette.html">Etiquette</a> <a href="Information Verification.html">Information Verification</a> <a href="Society.html">Society</a> <a href="Social Media.html">Social Media</a> <a href="Security.html">Security</a>
 
+
+<h3>Exploring and understanding safety, legal, cultural, and social issues relating to the use of thechnology and information</h3>
+
+<ol>
+	
+<li>Copyright Laws</li>
+<li>Digital Etiquette</li>
+<li>Security</li>
+<li>Social Media</li>
+<li>Society</li>
+<li>Information Verification</li>
+
+</ol>
+
+<ul>
+  <li><a href="#Index">Home</a></li>
+  <li><a href="#Copyright">Copyright</a></li>
+  <li><a href="#Etiquette">Etiquette</a></li>
+  <li><a href="#Information Verification">Information Verification</a></li>
+  <li><a href="#Society">Society</a></li>
+  <li><a href="#Social Media">Social Media</a></li>
+  <li><a href="#Security">Security</a></li>
+</ul>
+</body>
+</html>
