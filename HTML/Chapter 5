@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Chapter 5, the 9 Essential tags</title>
+	</head>
+	<body>
 
+<a href="Index.html">Home</a> <a href="block-vs-inline-tags.html">Block</a> <a href="html-comments.html">Comments</a> <a href="html-list-types.html">Lists</a> <a href="images.html">Images</a> <a href="images-part-5.html">Images Part 5</a> <a href="misc-pages/9-basic-HTML-tags.html">9 Basic Tags</a></a> <a href="Misc.html">Misc</a>
+	
+	<h1>Stef's 9 Essential HTML Tags:</h1>
+
+	<h1>h, p , a, br, img, ul, ol, li, div</h1>
+
+	<p>HTML Resources</p>
+
+	<p>Check out a list of <a href="block-vs-inline-tags.html">Block vs Inline.</a></p>
+	<p>Check out a list of <a href="html-comments.html">HTML Comments.</a></p>
+	<p>Check out a list of <a href="html-list-types.html">HTML List Types.</a></p>
+	<p>Check out a list of <a href="images.html">Images.</a></p>
+	<p>Check out a list of <a href="images-part-5.html">Images Part 5.</a></p>
+	<p>Check out a list of <a href="misc-pages/9-basic-HTML-tags.html">9 Basic Tags.</a></p>
+
+	</body>
+</html>
