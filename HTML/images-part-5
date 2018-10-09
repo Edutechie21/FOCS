@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Chapter 5, Images Part 3</title>
+	</head>
+	<body style="background-color: #93BC93">
+<a href="Index.html">Home</a> <a href="block-vs-inline-tags.html">Block</a> <a href="html-comments.html">Comments</a> <a href="html-list-types.html">Lists</a> <a href="images.html">Images</a> <a href="images-part-5.html">Images Part 5</a> <a href="misc-pages/9-basic-HTML-tags.html">9 Basic Tags</a></a> <a href="Misc.html">Misc</a>
+	<h1>Images: JPEG, PNG, GIF</h1>
+
+	<a href="http://www.studioweb.com">
+	<img style="border:5px; border-style: dashed" src="images/frog-square.jpg">
+	</a>
+
+	<br>
+	<img src="images/frog.jpg">
+
+	<br>
+	<img src="images/frog.gif">
+
+	<br>
+	<img src="images/frog.png">
+
+	<br>
+	<img src="images/frog-graduated.png">
+
+
+	</body>
+</html>
