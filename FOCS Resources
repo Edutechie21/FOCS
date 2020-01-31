@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FOCS Resources</title>
+</head>
+<body>
+<h1>FOCS Resources</h1>
+
+<h2>Repositories</h2> <!-- A place where things are stored-->
+<ol>
+	<li>Github</li>
+	<li>Stack Overflow</li>
+	<li>Smashing List</li>
+</ol>
+
+<h2>Online Editors</h2>
+<ol>
+	
+	<li>CodePen</li>
+	<li>Glitch</li>
+	<li> </li>
+</ol>
+</body>
+</html>
