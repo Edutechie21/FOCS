@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Digital Responsibility</title>
+		<style type="text/css">
+			body {
+				font-family: Arial, Verdana, sans-serif;
+				color: #111111;
+				font-size: 90%;
+				line-height: 1.2em;
+				width: 200px;}
+			h2 {
+				color: #0088dd;
+				border-bottom: 1px solid #0088dd;}
+			p {
+				min-height: 75px;
+				max-height: 300px;}
+			p.one {
+				overflow: hidden;}
+			p.two {
+				overflow: scroll;}
+		</style>
+	</head>
+	<body>
+		<h2>Definition of Digital Responsibility</h2>
+		<p class="one">Replace this text with your definition of Digital Responsibility</p>
+		<h2>Digital Responsibility</h2>
+		<p class="two">Replace this text with the 5 sentence paragraph you wrote on Digital Responsibility</p>
+	</body>
+</html>
