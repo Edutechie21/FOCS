@@ -1,0 +1,26 @@
+The Basic HTML Tags
+
+Tag			Description
+<!DOCTYPE> 	Sets the document type
+<html>		Starts the HTML document
+<title>		Sets a title for the document
+<body>		Starts the document's body
+<h1> to <h6>	Creates HTML headings
+<p>			Creates a paragraph
+<hr>			Creates a thematic change in the content
+<br>			Inserts a single line break
+<!--...-->		Creates a comment
+
+
+The 9 Essential HTML Tags
+
+Tag			Description
+<a> 			The important 'a' tag. Creates links
+<title>		Sets a title for the document
+<div>		Creates divisions in pages
+<h1> to <h6>	Creates HTML headings
+<p>			Creates a paragraph
+<ul>, <ol>	Creates lists and menus
+<li>	 		Creates list items in lists
+<br>			Inserts a single line break
+<img>		Inserts images into a page
